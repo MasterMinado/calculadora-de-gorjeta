@@ -107,6 +107,11 @@ main {
     color: var(--white);
 }
 
+.Gorjeta .botao-ativo {
+    background-color: var(--light-green);
+    color: var(--green-800);
+}
+
 .Gorjeta input[type="button"]:hover,
 .resultados button:hover {
     background-color: var(--green-hover);
